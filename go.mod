@@ -1,4 +1,4 @@
-module github.com/SwornStar/is105sem03
+module github.com/SwornStar/is105sem03/mycrypt
 
 go 1.18
 
